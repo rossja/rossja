@@ -4,4 +4,5 @@
 - 🌱 I’m currently learning [deno](https://deno.land/)
 - 📫 How to reach me: [email](mailto:algorythm@gmail.com)
 - 😄 Pronouns: he/they
-- ⚡ Fun fact: <script src="https://tryhackme.com/badge/1349447"></script>
+- ⚡ Fun fact: 
+<img src="https://tryhackme-badges.s3.amazonaws.com/algorythm.png" alt="TryHackMe">
