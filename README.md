@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [ScoutSuite Docker](https://github.com/nccgroup/scoutsuite), [CPTC](https://cp.tc), and the OWASP [Top 10 For LLMs](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
-- 🌱 I’m currently learning about AI/LLMs
-- 📫 How to reach me: [email](mailto:algorythm@gmail.com)
+- 🔭 I’m currently working on the [OWASP GenAI Project](https://genai.owasp.org) -- specifically the [Red Team Initiative](https://github.com/GenAI-Security-Project/GenAI-Red-Team-Lab), and a bunch of random AI-based "stuff".
+- 🌱 I’m currently learning about securing AI/LLMs/Agents and Tooling/Harnesses related to them
+- 📫 How to reach me: [email](mailto:algorythm@gmail.com), [linkedin](https://linkedin.com/in/algorythm)
 - 😄 Pronouns: he/they
-- ⚡ Fun fact: 
-<img src="https://tryhackme-badges.s3.amazonaws.com/algorythm.png" alt="TryHackMe">
+- 🧠 Personal Blog: [freeZion](https://freezion.com)
